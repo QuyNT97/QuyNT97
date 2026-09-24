@@ -27,12 +27,6 @@ Developer interested in **async systems**, **plugin architectures**, and tools t
 | --- | --- |
 | [**Taskloom**](https://github.com/QuyNT97/Taskloom) | Extensible async task engine with transactional state and a plugin-first architecture. |
 
-## More repos
-
-- [**rtf-core-pm**](https://github.com/QuyNT97/rtf-core-pm)
-- [**rtf-research**](https://github.com/QuyNT97/rtf-research)
-- [**learning-mode-search**](https://github.com/QuyNT97/learning-mode-search)
-
 ## Connect
 
 - Profile site: [quynt97.github.io](https://quynt97.github.io/)
